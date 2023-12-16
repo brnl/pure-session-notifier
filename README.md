@@ -1,4 +1,4 @@
-# README.md for Pure Session Indicator Add-on
+# BM Pure Session Indicator
 
 ## Overview
 The Pure Session Indicator Add-on is a lightweight JavaScript tool designed for the Pure time writing web interface. It enhances user experience by adding a small indicator in the menu bar at the top right of the interface. This indicator shows whether the current user session is active, providing real-time session status updates.
